@@ -1,0 +1,6 @@
+Quadrangle is a polygon with four edges (or sides) and four vertices or corners
+class _interface.task1.Rhombus
+16
+12
+Quadrangle is a polygon with four edges (or sides) and four vertices or corners
+class _interface.task1.Trapezoid
